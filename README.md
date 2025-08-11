@@ -17,5 +17,5 @@ LangChain for document retrieval & question answering
 Google Generative AI API (Gemini)
 
 ⚠️ Notes
-Quota limits: If Gemini-1.5-pro quota exhausted, the model is changed to Gemini-1.5-flash.
-PDF size: Very large PDFs may take longer to process.
+1. Quota limits: If Gemini-1.5-pro quota exhausted, the model is changed to Gemini-1.5-flash.
+2. PDF size: Very large PDFs may take longer to process.
